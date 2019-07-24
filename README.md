@@ -15,6 +15,9 @@ User will be asked to enter keyword(s) of interest.
 
 ![sample](https://github.com/farahsamat/sentweetment/blob/master/images/sample.png)
 
+![sample2](https://github.com/farahsamat/sentweetment/blob/master/images/sample2.png)
+
+
 ## Acknowledgments
 
 [Twitter API Doc](https://developer.twitter.com/en/docs/api-reference-index)
